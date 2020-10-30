@@ -1,0 +1,22 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/code-blog",
+        "prod_uri":"mysql://root:@localhost/code-blog",
+        "fb_url":"https://www.facebook.com",
+        "tw_url":"https://www.twitter.com",
+        "git_url":"https://www.github.com",
+        "blog_name":"BLOG THUNDER",
+        "tagline":"A blog liked by everyone.",
+        "user-gmail":"aryannayan2005@gmail.com",
+        "user-password":"thegreataryan",
+        "post_index":2,
+        "admin_user":"Aryan",
+        "admin_password":"Aryan23",
+        "upload_location":"D:\\Snapseed"
+
+        
+
+    }
+
+}
